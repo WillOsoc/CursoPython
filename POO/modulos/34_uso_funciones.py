@@ -1,0 +1,6 @@
+import funciones_matematicas # Se debe indicar el nombre del módulo al llamar cada método
+from funciones_matematicas import * # O puedes indicar cáda método a ser llamado (sumar, restar, ...) para optimizar
+
+funciones_matematicas.sumar(3,5)  # Usando solo import ...
+restar(3,5) 	# Usando from --modulo-- import ... 
+
