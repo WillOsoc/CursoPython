@@ -4,7 +4,7 @@
 diccionario01={"Alemania":"Berlin","Francia":"Paris","España":"Madrid","Venezuela":"Caracas"}
 diccionario01["Italia"]="Lisboa"
 diccionario01["Italia"]="Roma"	#Corregir o sobreescribir un valor
-del diccionario01["Francia"]
+del diccionario01["Francia"]	# Eliminar item, solo indicar la clave
 
 diccionario02={"Colombia":"Bogotá",12:"años","texto":34}
 
