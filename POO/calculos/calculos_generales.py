@@ -10,8 +10,3 @@ def multiplicar(n1,n2):
 def dividir(n1,n2):
 	print("Resultado de la división: ",n1/n2)
 
-def potencia(base,exponente):
-	print("Resultado de la potencia: ",base**exponente)	
-	
-def redondear(numero):
-	print("El resultado del redondeo: ",round(numero))
